@@ -1,0 +1,15 @@
+.product Card{
+    border: none;
+    
+}
+
+.product-title{
+    font-weight: bold;
+}
+.price{
+    font-weight: bold;
+}
+.buy{
+    padding: 5px 30px;
+    margin-bottom: 0px;
+}

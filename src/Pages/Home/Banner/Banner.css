@@ -1,0 +1,22 @@
+.image{
+    background: url("../../../Images/banner2.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.heading{
+    margin-top: 350px ;
+    position: absolute;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+.heading Button{
+    background-color: #FF3124;
+    padding: 10px 15px;
+    border: none;
+}
+.heading Button:hover{
+    background-color: #fc4639;
+    padding: 10px 15px;
+    border: none;
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Honda Accord 5 Setaer Car",
+        "Price": "$27,750",
+        "description": "The 2021 Honda Accord looks good inside and features more upscale materials than most of its classmates.",
+        "img": "https://cars.usnews.com/static/images/Auto/izmo/i55706567/2018_honda_accord_angularfront.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Honda City 5 Setaer Car",
+        "Price": "$25,750",
+        "description": "The all-new fifth-generation Honda City was launched in India in July 2020. The car is available in nine various trim levels",
+        "img": "https://unicorncars.in/wp-content/uploads/2020/08/Modern-Steel-Metallic-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Honda CRV 7 Setaer Car",
+        "Price": "$31,750",
+        "description": "Get ready for your next adventure in the exclusive new CR-V Sport Limited Edition.",
+        "img": "https://dealer-content.s3.amazonaws.com/images/models/honda/2021/cr-v/colors/sonic-gray-pearl.png"
+    },
+    {
+        "id": 4,
+        "name": "THE X5",
+        "Price": "$26,750",
+        "description": "The BMW X5 comes in four distinctive trims starting with the entry-level X5 xDrive40i SportX Plus",
+        "img": "https://cars.usnews.com/static/images/Auto/izmo/i159614660/2022_bmw_x5_angularfront.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Audi e-tron GT quattro",
+        "Price": "$29,750",
+        "description": "The Audi e-tron GT quattro is a modern-day demonstration of progress.",
+        "img": "https://www.ccarprice.com/products/Audi_e-tron_GT_quattro_Premium_Plus_2022.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mercedes-Benz A 220",
+        "Price": "$42,750",
+        "description": "Polar White 2022 Mercedes-Benz A-Class A 220 4MATIC®  7-Speed Automatic 2.0L I4 Turbocharged ",
+        "img": "https://ymimg1.b8cdn.com/resized/car_version/5448/pictures/3133552/mobile_listing_main_10467_st1280_046.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Acura MDX TECHNOLOGY",
+        "Price": "$42,750",
+        "description": "Polar White 2022 Mercedes-Benz A-Class A 220 4MATIC®  7-Speed Automatic 2.0L I4 Turbocharged ",
+        "img": "https://s.aolcdn.com/commerce/autodata/images/USC90ACS111B021001.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Acura ILX",
+        "Price": "$40,750",
+        "description": "Polar White 2022 Mercedes-Benz A-Class A 220 4MATIC®  7-Speed Automatic 2.0L I4 Turbocharged ",
+        "img": "http://cdn-ds.com/chrome/2021-Acura-ILX--Ponce-PR/seo/MzI0ODgwXk1lZGlhIEdhbGxlcnk/W7eKk8o_lu8JWaT26gtyNgpwaq3vfwJ28bhDq5qvtO-Cz51dLFZyXVt0G9hcadUxXOM891IY74mGcRnjLSvyvanN8kQ9hYUpz_2jOqF5fTKVZ1ZklZ4Bid1bCYfH5puba3ux8a0O3Llfs8PYP1tI4PmaJGXuialf9utswYVPxrU/cc_2021ACC140009_01_1280_SI.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ford EcoSport S",
+        "Price": "$42,750",
+        "description": "Polar White 2022 Mercedes-Benz A-Class A 220 4MATIC®  7-Speed Automatic 2.0L I4 Turbocharged ",
+        "img": "https://www.ccarprice.com/products/Ford-EcoSport-S-FWD-2021.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Ford Edge TITANIUM",
+        "Price": "$25,979",
+        "description": "Polar White 2022 Mercedes-Benz A-Class A 220 4MATIC®  7-Speed Automatic 2.0L I4 Turbocharged ",
+        "img": "https://www.ccarprice.com/products/Ford_Edge_Titanium_2021.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Hyundai Accent LTD",
+        "Price": "$22,750",
+        "description": "Polar White 2022 Mercedes-Benz A-Class A 220 4MATIC®  7-Speed Automatic 2.0L I4 Turbocharged ",
+        "img": "https://www.ccarprice.com/products/Hyundai_Accent_Limited_2021.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Chrysler 200 LTD NAV",
+        "Price": "$10,750",
+        "description": "Polar White 2022 Mercedes-Benz A-Class A 220 4MATIC®  7-Speed Automatic 2.0L I4 Turbocharged ",
+        "img": "https://tdrresearch.azureedge.net/photos/chrome/Expanded/White/2017CRC210003/2017CRC21000301.jpg"
+    }
+]
