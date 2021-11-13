@@ -1,10 +1,11 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Card, Button } from 'react-bootstrap';
 import './Product.css'
 
-const Porduct = (props) => {
+const Porduct = ({ product }) => {
 
-    const { name, img, description, Price } = props.product;
+    const { name, img, description, Price } = product;
     return (
         <div className="product">
             <Card style={{ width: '18rem', border: 'none', marginTop: "15px", height: "500px" }}>
@@ -17,7 +18,9 @@ const Porduct = (props) => {
                     <Card.Text className="price">
                         Price: {Price}
                     </Card.Text>
-                    <Button className="buy" >Buy Now</Button>
+                    <Link to='/explore'>
+                        <Button className="buy" >Buy Now</Button>
+                    </Link>
                 </Card.Body>
             </Card>
         </div>

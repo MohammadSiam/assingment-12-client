@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { Card } from 'react-bootstrap';
 import Review from '../Review/Review';
 
 
@@ -7,7 +6,7 @@ const Reviews = () => {
     const [reviews, setReviews] = useState([]);
 
     useEffect(() => {
-        fetch('./review.json')
+        fetch('https://whispering-shore-11998.herokuapp.com/rating')
             .then(res => res.json())
             .then(data => setReviews(data))
     }, [])
@@ -18,7 +17,7 @@ const Reviews = () => {
             <div style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)" }}>
                 {
                     reviews.map(review => <Review
-                        key={review.id}
+                        key={review._id}
                         review={review}
 
                     ></Review>)
